@@ -1,0 +1,18 @@
++-------------------+----------------------------------------------+
+| Field             | Value                                        |
++-------------------+----------------------------------------------+
+| allocation_pools  | {"start": "10.10.0.2", "end": "10.10.0.254"} |
+| cidr              | 10.10.0.0/24                                 |
+| dns_nameservers   |                                              |
+| enable_dhcp       | True                                         |
+| gateway_ip        | 10.10.0.1                                    |
+| host_routes       |                                              |
+| id                | 8df3cd21-b961-4d9d-b5fd-b9dc7889ab65         |
+| ip_version        | 4                                            |
+| ipv6_address_mode |                                              |
+| ipv6_ra_mode      |                                              |
+| name              | vault-tek-network-subnet-10                  |
+| network_id        | c8784ca4-e58b-403c-9bae-9bdbc6cdcba4         |
+| subnetpool_id     |                                              |
+| tenant_id         | aff0512d7cbf479e9d8da4746e0ba0ca             |
++-------------------+----------------------------------------------+
